@@ -9,6 +9,9 @@
 [![directory files](https://img.shields.io/github/directory-file-count/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
 
 ## Deploy documentado da plataforma de aprendizado OpenSource Moodle
+<p align="center"><a href="https://moodle.org" target="_blank" title="Moodle Website">
+  <img src="https://raw.githubusercontent.com/moodle/moodle/main/.github/moodlelogo.svg" alt="The Moodle Logo">
+</a></p>
 
 ### **Visão Geral**
 -  **Aplicação:** Moodle
