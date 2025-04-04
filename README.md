@@ -1,6 +1,6 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Mardown-8A2BE2)](https://github.com/alanmugiwara)
-[![Created Badge](https://badges.pufler.dev/created/alanmugiwara/moodle-deploy/?color=blueviolet)](https://github.com/alanmugiwara)
-[![Updated Badge](https://badges.pufler.dev/updated/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
+[![create date](https://badges.pufler.dev/created/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
 
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/moodle-deploy?color=8A2BE2)](https://github.com/alanmugiwara)
