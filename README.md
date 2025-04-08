@@ -37,7 +37,7 @@
     - **Código Moodle:**
         - Localização: C:\Users\bebetoburgues\moodle-4.5.3
     - **Diretório de Dados Moodle:** 
-	    - Localização: C:\Users\bebetoburgues\moodle-4.5.3\moodledata
+	    - Localização: C:\Users\bebetoburgues\moodle-4.5.3\moodle-data
 #### **3. Pré-requisitos**
 
 - **Software:**
