@@ -35,9 +35,9 @@
      - **Banco de Dados:** MariaDB 11.5
 	- **Instalação:** manual - PHP, Apache, MariaDB
     - **Código Moodle:**
-        - Localização: C:\Users\x132248\moodle-4.5.3
+        - Localização: C:\Users\bebetoburgues\moodle-4.5.3
     - **Diretório de Dados Moodle:** 
-	    - Localização: C:\Users\x132248\moodle-4.5.3\moodledata
+	    - Localização: C:\Users\bebetoburgues\moodle-4.5.3\moodledata
 #### **3. Pré-requisitos**
 
 - **Software:**
